@@ -1,7 +1,7 @@
 # pullingitagain
 // Set your secret key. Remember to switch to your live secret key in production!
 // See your keys here: https://dashboard.stripe.com/account/apikeys
-StripeConfiguration.ApiKey = "sk_live_...4kUR";
+StripeConfiguration.ApiKey = "sk_live_...vBJ9";
 
 var options = new PayoutCreateOptions
 {
